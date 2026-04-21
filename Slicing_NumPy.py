@@ -1,4 +1,4 @@
-#lesson 3 
+#lesson 4
 #slicing[Start,End,Steps]
 import numpy as np
 a=np.array(['a','b','c','d','e','f'])
