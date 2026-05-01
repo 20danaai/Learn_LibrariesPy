@@ -1,4 +1,4 @@
-
+# Lesson 5
 import pandas as pd
 olympics=pd.read_excel('ai\data\olympics-data.xlsx')
 olympics=olympics.rename(columns={'born_region':'region'}) # without variable or inplace=True  the origonal npt gone change
